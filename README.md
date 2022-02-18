@@ -21,8 +21,8 @@
     - ⚡ Fun fact: I'm a singer </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=novalarama&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalarama&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=novalarama&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalarama&layout=compact&theme=tokyonight" height=180 />
 </p>
 
 ### Languages and Tools

@@ -23,6 +23,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=novalarama&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalarama&layout=compact&theme=tokyonight" height=180 />
+    <img src="https://activity-graph.herokuapp.com/graph?username=novalarama&theme=react-dark" />
 </p>
 
 ### Languages and Tools

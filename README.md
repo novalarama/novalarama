@@ -23,6 +23,7 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=novalarama&show_icons=true&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novalarama&layout=compact&theme=tokyonight" height=180 />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=novalarama&theme=tokyonight_duo" alt="mystreak"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=novalarama&theme=react-dark" />
 </p>
 
